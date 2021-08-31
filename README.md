@@ -9,7 +9,7 @@ Examples from Figma
 ## Main page
 ![nex_homepage](https://user-images.githubusercontent.com/56508980/131486214-e1f824fc-1b2e-45c3-9fda-0bee9d78193c.png)
 ## Home content page
-
+![nex_Home](https://user-images.githubusercontent.com/56508980/131486357-7f2b3902-bab1-427f-87c1-afb3189adb88.png)
 ## Social photos content page
 
 ## Group content page
