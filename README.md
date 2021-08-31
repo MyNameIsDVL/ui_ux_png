@@ -20,3 +20,4 @@ Examples from Figma
 ![nex_news](https://user-images.githubusercontent.com/56508980/131486686-9c766d42-def9-4040-a9ed-7decdb5177ca.png)
 
 # CV
+![cv_mh](https://user-images.githubusercontent.com/56508980/131486786-76bdfcb5-1ac8-4d0f-91b4-35d76eeece58.png)
