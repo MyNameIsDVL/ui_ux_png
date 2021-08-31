@@ -12,8 +12,8 @@ Examples from Figma
 ![nex_Home](https://user-images.githubusercontent.com/56508980/131486357-7f2b3902-bab1-427f-87c1-afb3189adb88.png)
 ## Social photos content page
 ![nex_social_photos](https://user-images.githubusercontent.com/56508980/131486432-bf0187a1-5d2d-42aa-86a7-03402fda7301.png)
-## Group content page
-
+## Groups content page
+![nex_groups](https://user-images.githubusercontent.com/56508980/131486505-e94905f5-1fb5-4b05-9adb-aeb0a01d392c.png)
 ## Profile content page
 
 ## News content page
