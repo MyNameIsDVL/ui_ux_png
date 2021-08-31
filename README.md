@@ -7,7 +7,7 @@ Examples from Figma
 ## Register page
 
 ## Main page
-
+![nex_homepage](https://user-images.githubusercontent.com/56508980/131486214-e1f824fc-1b2e-45c3-9fda-0bee9d78193c.png)
 ## Home content page
 
 ## Social photos content page
