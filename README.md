@@ -17,3 +17,6 @@ Examples from Figma
 ## Profile content page
 ![nex_profile](https://user-images.githubusercontent.com/56508980/131486592-2f6ec868-3720-4b48-a618-7cc754403f85.png)
 ## News content page
+![nex_news](https://user-images.githubusercontent.com/56508980/131486686-9c766d42-def9-4040-a9ed-7decdb5177ca.png)
+
+# CV
