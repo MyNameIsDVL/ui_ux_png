@@ -15,5 +15,5 @@ Examples from Figma
 ## Groups content page
 ![nex_groups](https://user-images.githubusercontent.com/56508980/131486505-e94905f5-1fb5-4b05-9adb-aeb0a01d392c.png)
 ## Profile content page
-
+![nex_profile](https://user-images.githubusercontent.com/56508980/131486592-2f6ec868-3720-4b48-a618-7cc754403f85.png)
 ## News content page
